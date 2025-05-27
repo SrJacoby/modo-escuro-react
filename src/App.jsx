@@ -12,7 +12,6 @@ function App() {
 
   const themeToggler = () => {
     theme === 'light' ? setTheme('dark') : setTheme('light')
-    
   }
 
   const StyledDiv = styled.div`
