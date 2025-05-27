@@ -21,7 +21,7 @@ export const GlobalStyles = createGlobalStyle`
         background: transparent;
         border-radius: 20px;
         padding: 10px 20px;
-        
+        cursor: pointer;
         }
 
         & button:hover{
