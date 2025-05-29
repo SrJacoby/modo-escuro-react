@@ -32,8 +32,4 @@ export const GlobalStyles = createGlobalStyle`
         max-height: 50px;
         }
     }
-
-    
-
-    
 `
