@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { ThemeProvider } from "styled-components"
 import { lightTheme, darkTheme } from "./Theme"
-import { GlobalStyles } from "./globalStyles"
+import { GlobalStyles } from "./GlobalStyles.jsx"
 import Sun from './assets/sun.svg'
 import Moon from './assets/moon.svg'
 
